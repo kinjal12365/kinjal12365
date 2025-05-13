@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br>
+
 Hi, I'm Kinjal Kanjilal, a Computer Science Engineering graduate passionate about building intelligent systems using Machine Learning, Deep Learning, MLOps, and Generative AI. I specialize in designing scalable AI solutions that combine strong data foundations with robust deployment practices.
 
 🚀 What I Do<br>
